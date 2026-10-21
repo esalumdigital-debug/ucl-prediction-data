@@ -1,0 +1,9 @@
+﻿Season,Dataset,Version,StageStatus,LastUpdatedUTC,ExpectedRows,Notes
+2026-27,teams,v1.0,Ready,2026-10-19T00:00:00Z,36,36 league-phase clubs loaded.
+2026-27,league,v1.1,Ready,2026-10-21T02:28:00Z,144,All 144 fixtures loaded; Matchdays 1-2 complete; first 9 Matchday 3 matches completed; remaining 99 matches scheduled.
+2026-27,standings,v1.0,Ready,2026-10-19T00:00:00Z,72,Snapshots for Matchdays 1 and 2 loaded (36 rows each).
+2026-27,playoff,v0.0,Waiting,,16,Publish after UEFA knockout play-off draw.
+2026-27,round16,v0.0,Waiting,,16,Publish after UEFA Round of 16 draw.
+2026-27,quarterfinal,v0.0,Waiting,,8,Publish when official fixtures are known.
+2026-27,semifinal,v0.0,Waiting,,4,Publish when official fixtures are known.
+2026-27,final,v0.0,Waiting,,1,Publish when official finalists are known.

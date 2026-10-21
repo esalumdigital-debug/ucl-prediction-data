@@ -1,0 +1,73 @@
+﻿Season,Matchday,Position,DisplayOrder,TeamID,TeamName,Played,Wins,Draws,Losses,GoalsFor,GoalsAgainst,GoalDifference,Points,Form,QualificationStatus,SourceURL,DataVersion,LastUpdatedUTC
+2026-27,1,1,1,PSG,Paris Saint-Germain,1,1,0,0,6,1,5,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,2,2,BAY,Bayern München,1,1,0,0,5,0,5,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,3,3,BAR,Barcelona,1,1,0,0,5,1,4,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,4,4,MUN,Manchester United,1,1,0,0,4,0,4,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,5,5,COM,Como,1,1,0,0,4,1,3,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,6,6,SCP,Sporting CP,1,1,0,0,3,1,2,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,6,7,STU,Stuttgart,1,1,0,0,3,1,2,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,8,8,MCI,Manchester City,1,1,0,0,2,0,2,3,W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,9,9,AVL,Aston Villa,1,1,0,0,3,2,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,9,10,LEN,Lens,1,1,0,0,3,2,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,9,11,RBB,Real Betis,1,1,0,0,3,2,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,12,12,BVB,Borussia Dortmund,1,1,0,0,3,2,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,13,13,LIV,Liverpool,1,1,0,0,2,1,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,13,14,RMA,Real Madrid,1,1,0,0,2,1,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,15,15,ARS,Arsenal,1,1,0,0,1,0,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,16,16,AEK,AEK Athens,1,1,0,0,1,0,1,3,W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,17,17,ROM,Roma,1,0,1,0,1,1,0,1,D,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,17,18,SHA,Shakhtar Donetsk,1,0,1,0,1,1,0,1,D,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,19,19,FEN,Fenerbahçe,1,0,1,0,1,1,0,1,D,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,19,20,PSV,PSV Eindhoven,1,0,1,0,1,1,0,1,D,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,21,21,VIL,Villarreal,1,0,0,1,2,3,-1,0,L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,22,22,BRU,Club Brugge,1,0,0,1,2,3,-1,0,L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,22,23,LIL,Lille,1,0,0,1,2,3,-1,0,L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,22,24,SLA,Slavia Praha,1,0,0,1,2,3,-1,0,L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,25,25,ATM,Atlético de Madrid,1,0,0,1,1,2,-1,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,25,26,INT,Inter,1,0,0,1,1,2,-1,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,27,27,LAS,LASK,1,0,0,1,0,1,-1,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,27,28,NAP,Napoli,1,0,0,1,0,1,-1,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,29,29,GAL,Galatasaray,1,0,0,1,1,3,-2,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,29,30,VIK,Viking,1,0,0,1,1,3,-2,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,31,31,POR,Porto,1,0,0,1,0,2,-2,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,32,32,RBL,Leipzig,1,0,0,1,1,4,-3,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,33,33,FEY,Feyenoord,1,0,0,1,1,5,-4,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,34,34,SBH,Sabah,1,0,0,1,0,4,-4,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,35,35,SLO,Slovan Bratislava,1,0,0,1,1,6,-5,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,1,36,36,BOD,Bodø/Glimt,1,0,0,1,0,5,-5,0,L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,1,1,PSG,Paris Saint-Germain,2,2,0,0,10,3,7,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,2,2,BAR,Barcelona,2,2,0,0,9,2,7,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,3,3,AVL,Aston Villa,2,2,0,0,9,2,7,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,4,4,STU,Stuttgart,2,2,0,0,6,1,5,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,5,5,LIV,Liverpool,2,2,0,0,8,4,4,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,6,6,SCP,Sporting CP,2,2,0,0,5,1,4,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,7,7,ARS,Arsenal,2,2,0,0,4,0,4,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,8,8,RMA,Real Madrid,2,2,0,0,6,4,2,6,W W,Round16,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,9,9,RBB,Real Betis,2,2,0,0,6,4,2,6,W W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,10,10,BAY,Bayern München,2,1,1,0,8,3,5,4,W D,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,11,11,SHA,Shakhtar Donetsk,2,1,1,0,4,2,2,4,D W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,12,12,COM,Como,2,1,0,1,6,4,2,3,W L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,13,13,MUN,Manchester United,2,1,0,1,4,2,2,3,W L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,14,14,VIL,Villarreal,2,1,0,1,5,4,1,3,L W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,15,15,ATM,Atlético de Madrid,2,1,0,1,3,2,1,3,L W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,16,16,BRU,Club Brugge,2,1,0,1,6,6,0,3,L W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,17,17,MCI,Manchester City,2,1,0,1,4,4,0,3,W L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,18,18,BVB,Borussia Dortmund,2,1,0,1,3,3,0,3,W L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,19,19,LEN,Lens,2,1,0,1,3,4,-1,3,W L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,20,20,AEK,AEK Athens,2,1,0,1,2,3,-1,3,W L,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,21,21,RBL,Leipzig,2,1,0,1,2,4,-2,3,L W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,22,22,SBH,Sabah,2,1,0,1,2,4,-2,3,L W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,23,23,FEY,Feyenoord,2,1,0,1,4,7,-3,3,L W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,24,24,BOD,Bodø/Glimt,2,1,0,1,1,5,-4,3,L W,Playoff,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,25,25,ROM,Roma,2,0,1,1,4,5,-1,1,D L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,26,26,PSV,PSV Eindhoven,2,0,1,1,1,2,-1,1,D L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,27,27,VIK,Viking,2,0,1,1,4,6,-2,1,L D,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,28,28,FEN,Fenerbahçe,2,0,1,1,1,7,-6,1,D L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,29,29,INT,Inter,2,0,0,2,4,6,-2,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,30,30,POR,Porto,2,0,0,2,2,5,-3,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,31,31,SLA,Slavia Praha,2,0,0,2,2,5,-3,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,32,32,NAP,Napoli,2,0,0,2,1,4,-3,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,33,33,LAS,LASK,2,0,0,2,3,7,-4,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,34,34,LIL,Lille,2,0,0,2,2,6,-4,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,35,35,GAL,Galatasaray,2,0,0,2,2,7,-5,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
+2026-27,2,36,36,SLO,Slovan Bratislava,2,0,0,2,1,9,-8,0,L L,Eliminated,https://www.uefa.com/uefachampionsleague/standings/,v1.0,2026-10-19T00:00:00Z
