@@ -1,0 +1,5 @@
+﻿Season,Stage,TieID,Leg,MatchID,UEFAMatchID,KickoffUTC,HomeTeamID,AwayTeamID,Venue,Status,HomeScore,AwayScore,HomePenalties,AwayPenalties,QualifiedTeamID,DecidedBy,DataVersion,LastUpdatedUTC
+2026-27,Semifinals,SF-01,1,SF-01-L1,TBD,,TBD,TBD,TBD,TBD,,,,,TBD,TBD,v0.1,2026-11-10T16:27:00Z
+2026-27,Semifinals,SF-01,2,SF-01-L2,TBD,,TBD,TBD,TBD,TBD,,,,,TBD,TBD,v0.1,2026-11-10T16:27:00Z
+2026-27,Semifinals,SF-02,1,SF-02-L1,TBD,,TBD,TBD,TBD,TBD,,,,,TBD,TBD,v0.1,2026-11-10T16:27:00Z
+2026-27,Semifinals,SF-02,2,SF-02-L2,TBD,,TBD,TBD,TBD,TBD,,,,,TBD,TBD,v0.1,2026-11-10T16:27:00Z
